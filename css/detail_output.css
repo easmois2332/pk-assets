@@ -36,12 +36,9 @@ table.pk-detail {
         height: 96px;
     }
 
-    div.pk-detail.name-area {
-        float: left;
-    }
-
-    div.pk-detail.level-area {
-        float: right;
+    div.pk-detail.head-area {
+        display: flex;
+        flex-direction: row;
     }
 }
 
