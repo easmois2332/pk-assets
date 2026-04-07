@@ -25,6 +25,14 @@ table.pk-party {
         width: 64px;
         height: 64px;
     }
+
+    img.pk-party.icon {
+        position: absolute;
+    }
+
+    img.pk-party.pokemon {
+        position: relative;
+    }
 }
 
 tbody.pk-party.red-1 {
