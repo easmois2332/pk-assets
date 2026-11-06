@@ -4,6 +4,7 @@
 
 table.pk-detail {
     border-collapse: collapse;
+    width: max-content;
 
     th.pk-detail {
         width: 120px;

@@ -4,6 +4,7 @@
 
 table.pk-party {
     border-collapse: collapse;
+    width: max-content;
 
     td.pk-party {
         border: initial;
@@ -24,6 +25,13 @@ table.pk-party {
     img.pk-party {
         width: 64px;
         height: 64px;
+    }
+
+    div.pk-party.image {
+        background-image: url("https://easmois2332.github.io/pk-assets/image/Icon/pokeball_icon_000.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
     }
 
     img.pk-party.icon {
