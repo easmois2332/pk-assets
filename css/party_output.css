@@ -4,7 +4,6 @@
 
 table.pk-party {
     border-collapse: collapse;
-    width: max-content;
 
     td.pk-party {
         border: initial;
